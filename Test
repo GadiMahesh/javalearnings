@@ -1,0 +1,15 @@
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String[] locatios= {"Texa","Alaba","Miss"};
+		System.out.println(locatios.length);
+		for(int i=0;i<locatios.length;i++)
+		{
+			System.out.println(locatios[i]);
+		}
+
+	}
+
+}
